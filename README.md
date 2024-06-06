@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 My name is Tang Shiying, and you can call me Ali. 
-- 🔭 I am a versatile professional who embraces new challenges and confidently navigates career shifts, from a physics teacher, hiring staff, curriculum designer to a bioinformatics scientist. 
+- 😄 I am Ali, a versatile professional who currently works in bioinformatics.
+- 🔭 From a physics teacher, hiring staff, curriculum designer to a bioinformatics scientist, I always embraces new challenges and confidently navigates career shifts. 
