@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I am Ali, a versatile professional who currently works in bioinformatics.
-- 🔭 From a physics teacher, hiring staff, curriculum designer to a bioinformatics scientist, I always embraces new challenges and confidently navigates career shifts. 
+- 🔭 My journey has taken me from being a physics teacher, hiring staff, and curriculum designer to becoming a bioinformatics scientist.
+- 🌱 I'm passionate about leveraging technology to improve healthcare outcomes and excited about the future of AI in medicine.
